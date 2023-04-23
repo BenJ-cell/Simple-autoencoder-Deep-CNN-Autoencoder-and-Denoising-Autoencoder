@@ -1,1 +1,1 @@
-# Simple_DeepCNN_Denoising__LSTM_Autoencoders-and_Anomaly_Detection_NN_Mammography_&SP500
+# Simple_DeepCNN_Denoising__LSTM_Autoencoders-and_Anomaly_Detection_NN_Mammography_S&P500
